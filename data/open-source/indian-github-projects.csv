@@ -1,0 +1,24 @@
+name,repo,owner,language,stars,description,category,type,indian_evidence
+RethinkDNS,celzero/rethink-app,celzero,Kotlin,5782,DNS over HTTPS / Tor / DNSCrypt client with a WireGuard proxy,Tools & Utilities,android-app,Celzero is a Bengaluru-based team
+Namma Yatri,nammayatri/nammayatri,nammayatri,Haskell,2576,Direct-to-driver open mobility platform (rider + driver apps),"Travel, Mobility & Commute",android-app,"Built by Juspay, Bengaluru"
+Indian IPTV,kananinirav/Indian-IPTV-App,kananinirav,Dart,332,Watch live Indian TV channels,"Media, Streaming & Audio",android-app,Built around Indian TV channels
+Cashiro,ritesh-kanwar/Cashiro,ritesh-kanwar,Kotlin,202,Financial tracking manager,"Fintech, Payments & Banking",android-app,Listed under Indian open-source Android projects
+Indic Keyboard,smc/Indic-Keyboard,smc,Java,153,Privacy-aware keyboard supporting 23 Indian languages,"Office, Productivity & AI Utilities",android-app,Built for Indian languages
+Covid19 Notifier IN,PatilShreyas/Covid19-Notifier-IN,PatilShreyas,Kotlin,148,Notifies about COVID-19 cases in India,"Health, Fitness & Pharmacy",android-app,India-specific data (dated project)
+AAHAR,PriyanshuArora2001/AAHAR-APP,PriyanshuArora2001,Java,128,Food donation app to reduce food waste,Other Indian Apps,android-app,Built for Indian food-waste problem
+Muzo,Shashwat-CODING/Muzo,Shashwat-CODING,Dart,73,Privacy-focused YouTube Music client,"Media, Streaming & Audio",android-app,Listed under Indian open-source Android projects
+VehicleInfoOCR,Udayraj123/VehicleInfoOCR,Udayraj123,Java,48,Read Indian number plates and get vehicle details,"Travel, Mobility & Commute",android-app,Uses Indian vehicle registration data
+Pomodoro Timer,google-udacity-india-scholars/abnd-track-pomodoro-timer-app,google-udacity-india-scholars,Java,41,Productivity timer app,"Office, Productivity & AI Utilities",android-app,Google Udacity India Scholars programme
+Wikisource Reader,cis-india/Wikisource-Reader,cis-india,Kotlin,40,Read public-domain works from Wikisource,"Media, Streaming & Audio",android-app,"By the Centre for Internet and Society, India"
+RAAMEN,1407arjun/raamen-sih,1407arjun,Java,32,Measures vitals such as SpO2,"Health, Fitness & Pharmacy",android-app,Smart India Hackathon entry
+Vriksha,ambakick/vriksha,ambakick,Java,29,"App to help farmers, built for Smart India Hackathon 2018",Other Indian Apps,android-app,Smart India Hackathon (Government of India)
+Indic Keyboard Prime,jishnu7/Indic-Keyboard-Prime,jishnu7,Java,29,Free and open-source Indian language keyboard,"Office, Productivity & AI Utilities",android-app,Built for Indian languages
+NewsPin,himanshuPH/NewsPin,himanshuPH,Kotlin,25,News app built with Kotlin and coroutines,News & Content,android-app,Listed under Indian open-source Android projects
+Indian States and Cities,VinayakBagaria/Indian-States-and-Cities-Android,VinayakBagaria,Java,22,Offline autocomplete for Indian cities and states,"Travel, Mobility & Commute",android-app,Indian city and state data
+The Blind Assist,joshi98kishan/The-Blind-Assist,joshi98kishan,Jupyter Notebook,18,Detects Indian currency notes,Other Indian Apps,android-app,Indian currency detection
+BlackLogics,NexusTeamOfficial/BlackLogics-Open-Source,NexusTeamOfficial,Java,13,Open-source no-code Android IDE,"Office, Productivity & AI Utilities",android-app,Listed under Indian open-source Android projects
+Indic-BERT,AI4Bharat/Indic-BERT-v1,AI4Bharat,Python,297,BERT model for 11 Indic languages,Other Indian Apps,library-or-model,"AI4Bharat, IIT Madras"
+IndicTrans,AI4Bharat/indicTrans,AI4Bharat,Jupyter Notebook,145,Machine translation for 11 Indic languages,Other Indian Apps,library-or-model,"AI4Bharat, IIT Madras"
+IndicPhotoOCR,Bhashini-IITJ/IndicPhotoOCR,Bhashini-IITJ,Python,57,Scene text recognition across 11 Indian languages,Other Indian Apps,library-or-model,"Bhashini, IIT Jodhpur"
+Jugalbandi Manager,OpenNyAI/Jugalbandi-Manager,OpenNyAI,Python,42,AI conversational chatbot manager,Other Indian Apps,library-or-model,OpenNyAI (Indian legal AI initiative)
+Indian-Alternatives,varsingh369/Indian-Alternatives,varsingh369,,2,A list of Indian alternatives to global apps and services,Other Indian Apps,list,Curated list of Indian alternatives
