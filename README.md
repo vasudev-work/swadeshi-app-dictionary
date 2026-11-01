@@ -1609,15 +1609,38 @@ _2 apps_
 
 ## Indian open-source projects on GitHub
 
+Open-source Indian projects that are **not** Play Store listings. These link to their repository.
+
+- [Hoppscotch](https://github.com/hoppscotch/hoppscotch) — hoppscotch · 80712 stars · `open-source-software`
+- [Appwrite](https://github.com/appwrite/appwrite) — appwrite · 57808 stars · `open-source-software`
+- [Bruno](https://github.com/usebruno/bruno) — usebruno · 47967 stars · `open-source-software`
+- [ToolJet](https://github.com/ToolJet/ToolJet) — ToolJet · 41156 stars · `open-source-software`
+- [listmonk](https://github.com/knadh/listmonk) — knadh · 24103 stars · `open-source-software`
+- [AdonisJS](https://github.com/adonisjs/core) — adonisjs · 19173 stars · `open-source-software`
+- [Scira AI](https://github.com/zaidmukaddam/scira) — zaidmukaddam · 11912 stars · `open-source-software`
 - [RethinkDNS](https://github.com/celzero/rethink-app) — celzero · 5782 stars · `android-app`
+- [koanf](https://github.com/knadh/koanf) — knadh · 4227 stars · `library-or-model`
+- [libredesk](https://github.com/abhinavxd/libredesk) — abhinavxd · 3102 stars · `open-source-software`
 - [Namma Yatri](https://github.com/nammayatri/nammayatri) — nammayatri · 2576 stars · `android-app`
+- [whatomate](https://github.com/shridarpatil/whatomate) — shridarpatil · 1755 stars · `open-source-software`
+- [dungbeetle](https://github.com/zerodha/dungbeetle) — zerodha · 1285 stars · `open-source-software`
+- [csvtotable](https://github.com/vividvilla/csvtotable) — vividvilla · 1184 stars · `open-source-software`
+- [logchef](https://github.com/mr-karan/logchef) — mr-karan · 921 stars · `open-source-software`
+- [otpgateway](https://github.com/knadh/otpgateway) — knadh · 553 stars · `open-source-software`
+- [Tasqueue](https://github.com/kalbhor/Tasqueue) — kalbhor · 468 stars · `library-or-model`
+- [flowctl](https://github.com/cvhariharan/flowctl) — cvhariharan · 343 stars · `open-source-software`
 - [Indian IPTV](https://github.com/kananinirav/Indian-IPTV-App) — kananinirav · 332 stars · `android-app`
+- [Indic-BERT](https://github.com/AI4Bharat/Indic-BERT-v1) — AI4Bharat · 297 stars · `library-or-model`
 - [Cashiro](https://github.com/ritesh-kanwar/Cashiro) — ritesh-kanwar · 202 stars · `android-app`
+- [Sargam Icons](https://github.com/planetabhi/sargam-icons) — planetabhi · 192 stars · `library-or-model`
 - [Indic Keyboard](https://github.com/smc/Indic-Keyboard) — smc · 153 stars · `android-app`
 - [Covid19 Notifier IN](https://github.com/PatilShreyas/Covid19-Notifier-IN) — PatilShreyas · 148 stars · `android-app`
+- [IndicTrans](https://github.com/AI4Bharat/indicTrans) — AI4Bharat · 145 stars · `library-or-model`
 - [AAHAR](https://github.com/PriyanshuArora2001/AAHAR-APP) — PriyanshuArora2001 · 128 stars · `android-app`
 - [Muzo](https://github.com/Shashwat-CODING/Muzo) — Shashwat-CODING · 73 stars · `android-app`
+- [IndicPhotoOCR](https://github.com/Bhashini-IITJ/IndicPhotoOCR) — Bhashini-IITJ · 57 stars · `library-or-model`
 - [VehicleInfoOCR](https://github.com/Udayraj123/VehicleInfoOCR) — Udayraj123 · 48 stars · `android-app`
+- [Jugalbandi Manager](https://github.com/OpenNyAI/Jugalbandi-Manager) — OpenNyAI · 42 stars · `library-or-model`
 - [Pomodoro Timer](https://github.com/google-udacity-india-scholars/abnd-track-pomodoro-timer-app) — google-udacity-india-scholars · 41 stars · `android-app`
 - [Wikisource Reader](https://github.com/cis-india/Wikisource-Reader) — cis-india · 40 stars · `android-app`
 - [RAAMEN](https://github.com/1407arjun/raamen-sih) — 1407arjun · 32 stars · `android-app`
@@ -1627,11 +1650,10 @@ _2 apps_
 - [Indian States and Cities](https://github.com/VinayakBagaria/Indian-States-and-Cities-Android) — VinayakBagaria · 22 stars · `android-app`
 - [The Blind Assist](https://github.com/joshi98kishan/The-Blind-Assist) — joshi98kishan · 18 stars · `android-app`
 - [BlackLogics](https://github.com/NexusTeamOfficial/BlackLogics-Open-Source) — NexusTeamOfficial · 13 stars · `android-app`
-- [Indic-BERT](https://github.com/AI4Bharat/Indic-BERT-v1) — AI4Bharat · 297 stars · `library-or-model`
-- [IndicTrans](https://github.com/AI4Bharat/indicTrans) — AI4Bharat · 145 stars · `library-or-model`
-- [IndicPhotoOCR](https://github.com/Bhashini-IITJ/IndicPhotoOCR) — Bhashini-IITJ · 57 stars · `library-or-model`
-- [Jugalbandi Manager](https://github.com/OpenNyAI/Jugalbandi-Manager) — OpenNyAI · 42 stars · `library-or-model`
 - [Indian-Alternatives](https://github.com/varsingh369/Indian-Alternatives) — varsingh369 · 2 stars · `list`
+
+Each entry carries an `indian_evidence` column saying why the project is counted as Indian.
+
 
 ## How to contribute
 
