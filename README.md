@@ -1655,6 +1655,40 @@ Open-source Indian projects that are **not** Play Store listings. These link to 
 Each entry carries an `indian_evidence` column saying why the project is counted as Indian.
 
 
+## Digital products (web and API)
+
+Indian products that are not Play Store apps. Listed with city, pricing and official website.
+
+| Product | Developer | City | Pricing | Website |
+|---|---|---|---|---|
+| Bhuvan | National Remote Sensing Centre | Hyderabad, Telangana | Free | [bhuvan.nrsc.gov.in](https://bhuvan.nrsc.gov.in) |
+| Document Scanner | Lufick Technology Pvt. Ltd. | Gurugram, Haryana | Freemium | _not verified_ |
+| Epic Browser | Hidden Reflex | Bengaluru, Karnataka | Free | _not verified_ |
+| Indus Appstore | Indus Appstore Private Limited | Chennai, Tamil Nadu | Free | [www.indusappstore.com](https://www.indusappstore.com) |
+| JioSphere | Jio Platforms | Mumbai, Maharashtra | Free | [www.jiosphere.com](https://www.jiosphere.com) |
+| JioSwitch | Reliance Jio Digital Services | Mumbai, Maharashtra | Free | _not verified_ |
+| Kaagaz | Ordenado Labs Pvt. Ltd. | Gurugram, Haryana | Freemium | [kaagaz.app](https://kaagaz.app) |
+| New UI | Method Black Studio | Pathankot, Punjab | Freemium | _not verified_ |
+| Ola Maps | Ola Krutrim | Bengaluru, Karnataka | Free | _not verified_ |
+| Qmamu | Qmamu | Ahmedabad, Gujarat | Free | [qmamu.com](https://qmamu.com) |
+| Ulaa | Zoho Corporation | Chennai, Tamil Nadu | Free | [ulaa.com](https://ulaa.com) |
+| Zoho Vault | Zoho Corporation | Chennai, Tamil Nadu | Free | [www.zoho.com/vault](https://www.zoho.com/vault) |
+| AIKosh | National e-Governance Division | New Delhi, Delhi | Freemium | [aikosh.indiaai.gov.in](https://aikosh.indiaai.gov.in) |
+| BharatGen | BharatGen | Mumbai, Maharashtra | Paid | [bharatgen.com](https://bharatgen.com) |
+| Gan.AI | Gan.AI | Bengaluru, Karnataka | Paid | _not verified_ |
+| Gnani AI | Gnani.ai | Bengaluru, Karnataka | Paid | [gnani.ai](https://gnani.ai) |
+| Haptik | Haptik (Jio) | Mumbai, Maharashtra | Paid | [www.haptik.ai](https://www.haptik.ai) |
+| Krutrim AI Studio | Ola Krutrim | Bengaluru, Karnataka | Freemium | [www.olakrutrim.com](https://www.olakrutrim.com) |
+| Krutrim Assistant | Ola Krutrim | Bengaluru, Karnataka | Free | [www.olakrutrim.com](https://www.olakrutrim.com) |
+| Sarvam Samvaad | Sarvam AI | Bengaluru, Karnataka | Paid | [www.sarvam.ai](https://www.sarvam.ai) |
+| Sarvam Speech API | Sarvam AI | Bengaluru, Karnataka | Paid | [www.sarvam.ai](https://www.sarvam.ai) |
+| Sarvam Translate | Sarvam AI | Bengaluru, Karnataka | Paid | [www.sarvam.ai](https://www.sarvam.ai) |
+| Scira AI | Scira AI | Mumbai, Maharashtra | Freemium | [scira.ai](https://scira.ai) |
+| Soket AI | Soket AI Labs | Gurugram, Haryana | Paid | [www.soket.ai](https://www.soket.ai) |
+| Supernova AI | L8 Cones Interactive Private Limited | Bengaluru, Karnataka | Freemium | _not verified_ |
+
+Websites marked _not verified_ were not confirmed, so no link is given rather than a guessed one.
+
 ## How to contribute
 
 Open an issue with a Play Store link, or send a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md).
