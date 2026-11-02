@@ -1655,6 +1655,7 @@ Open-source Indian projects that are **not** Play Store listings. These link to 
 Each entry carries an `indian_evidence` column saying why the project is counted as Indian.
 
 
+
 ## Digital products (web and API)
 
 Indian products that are not Play Store apps. Listed with city, pricing and official website.
@@ -1686,6 +1687,53 @@ Indian products that are not Play Store apps. Listed with city, pricing and offi
 | Scira AI | Scira AI | Mumbai, Maharashtra | Freemium | [scira.ai](https://scira.ai) |
 | Soket AI | Soket AI Labs | Gurugram, Haryana | Paid | [www.soket.ai](https://www.soket.ai) |
 | Supernova AI | L8 Cones Interactive Private Limited | Bengaluru, Karnataka | Freemium | _not verified_ |
+| Arattai | Zoho Corporation | Chennai, Tamil Nadu | Free | _not verified_ |
+| Exotel | Exotel Techcom | Bengaluru, Karnataka | Paid | _not verified_ |
+| Jio Meet | Jio Platforms | Mumbai, Maharashtra | Free | _not verified_ |
+| JioChat | Jio Platforms | Mumbai, Maharashtra | Free | _not verified_ |
+| JioSafe | Jio Platforms Limited | Mumbai, Maharashtra | Free | _not verified_ |
+| Kommunicate | Kommunicate | Bengaluru, Karnataka | Freemium | _not verified_ |
+| Krutrim Contact Center | Ola Krutrim | Bengaluru, Karnataka | Paid | _not verified_ |
+| MSG91 | MSG91 | Indore, Madhya Pradesh | Paid | _not verified_ |
+| Sandes | National Informatics Centre | New Delhi, Delhi | Free | _not verified_ |
+| Troop Messenger | Tvisha Systems Pvt Ltd | Hyderabad, Telangana | Freemium | _not verified_ |
+| Vani HQ | Zoho Corporation | Chennai, Tamil Nadu | Freemium | _not verified_ |
+| VideoMeet | Data Ingenious Global Ltd | Jaipur, Rajasthan | Free | _not verified_ |
+| Zoho Cliq | Zoho Corporation | Chennai, Tamil Nadu | Freemium | _not verified_ |
+| Zoho Connect | Zoho Corporation | Chennai, Tamil Nadu | Freemium | _not verified_ |
+| Zoho Meeting | Zoho Corporation | Chennai, Tamil Nadu | Freemium | _not verified_ |
+| Zoho ShowTime | Zoho Corporation | Chennai, Tamil Nadu | Freemium | _not verified_ |
+| AdonisJS | Foster Studio | Faridabad, Haryana | Free | _not verified_ |
+| BrowserStack | BrowserStack Inc | Mumbai, Maharashtra | Paid | _not verified_ |
+| Bruno | Bruno Software | Bengaluru, Karnataka | Free | _not verified_ |
+| CtrlS Cloud | CtrlS Datacenters | Hyderabad, Telangana | Paid | _not verified_ |
+| E2E Cloud | E2E Networks | New Delhi, Delhi | Paid | _not verified_ |
+| Hoppscotch | Hoppscotch | Kochi, Kerala | Free | _not verified_ |
+| Krutrim Cloud | Ola Krutrim | Bengaluru, Karnataka | Paid | _not verified_ |
+| mappls | MapmyIndia | New Delhi, Delhi | Freemium | _not verified_ |
+| Site24x7 | Zoho Corporation | Chennai, Tamil Nadu | Freemium | _not verified_ |
+| Zoho BugTracker | Zoho Corporation | Chennai, Tamil Nadu | Freemium | _not verified_ |
+| Zoho Catalyst | Zoho Corporation | Chennai, Tamil Nadu | Freemium | _not verified_ |
+| Zoho Deluge | Zoho Corporation | Chennai, Tamil Nadu | Free | _not verified_ |
+| Zoho Flow | Zoho Corporation | Chennai, Tamil Nadu | Freemium | _not verified_ |
+| Zoho Sprints | Zoho Corporation | Chennai, Tamil Nadu | Freemium | _not verified_ |
+| Aasaan | Lightbooks Technologies | Hyderabad, Telangana | Freemium | _not verified_ |
+| BigBasket | Tata Digital | Bengaluru, Karnataka | Free | _not verified_ |
+| Dukaan | Dukaan | Bengaluru, Karnataka | Freemium | _not verified_ |
+| IndiaMART | IndiaMART InterMESH Limited | Noida, Uttar Pradesh | Freemium | _not verified_ |
+| JioMart | Reliance Industries | Mumbai, Maharashtra | Free | _not verified_ |
+| Meesho | Meesho | Bengaluru, Karnataka | Free | _not verified_ |
+| Nykaa | FSN E-Commerce Ventures | Mumbai, Maharashtra | Free | _not verified_ |
+| Pepperfry | Pepperfry | Mumbai, Maharashtra | Free | _not verified_ |
+| Qikink | Qikink | Mumbai, Maharashtra | Free | _not verified_ |
+| Shiprocket | Shiprocket | Gurugram, Haryana | Freemium | _not verified_ |
+| ShopClues | Clues Network | Gurugram, Haryana | Free | _not verified_ |
+| Snapdeal | Snapdeal Limited | New Delhi, Delhi | Free | _not verified_ |
+| StoreHippo | StoreHippo | Gurugram, Haryana | Paid | _not verified_ |
+| Tata CLiQ | Tata Group | Mumbai, Maharashtra | Free | _not verified_ |
+| The CraftsVilla | Vastrvilla Creation | Surat, Gujarat | Free | _not verified_ |
+| Typof | Typof Technologies Pvt. Ltd. | Cuttack, Odisha | Freemium | _not verified_ |
+| Zopping | Zopping | Bengaluru, Karnataka | Paid | _not verified_ |
 
 Websites marked _not verified_ were not confirmed, so no link is given rather than a guessed one.
 
